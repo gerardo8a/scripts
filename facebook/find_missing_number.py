@@ -1,9 +1,9 @@
 #!/bin/env python
 from collections import defaultdict
 
-#example input 5
+# example input 5
 # 1 11 31 41 51
-#out put 21
+# output 21
 
 N = int(raw_input())
 l=raw_input()
